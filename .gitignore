@@ -1,0 +1,16 @@
+# Archivos comprimidos y tarballs de fuentes
+*.tar.*
+*.tgz
+*.tar
+
+# Imágenes de disco virtual
+*.vdi
+*.vmdk
+*.qcow2
+*.iso
+
+# Credenciales y configuraciones sensibles
+.env
+id_rsa*
+*.pem
+credentials*
